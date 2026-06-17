@@ -11,7 +11,7 @@ const Home = () => {
       <Card className="w-lg p-4">
         <div className="flex gap-2">
           <Input placeholder="Adicionar tarefa" />
-          <Button variant="outline" className="cursor-pointer">
+          <Button variant="default" className="cursor-pointer">
             <Plus />
             Cadastrar
           </Button>
